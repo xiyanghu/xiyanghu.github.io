@@ -30,7 +30,9 @@ latest_posts:
 
 Hi! I'm **[Xiyang Hu](https://search.asu.edu/profile/5023133){:target="_blank"}** (胡曦阳), pronounced 'SHEE-yung HOO.' I also go by **Sean**. I am an **Assistant Professor at Arizona State University**, where I lead the **Generative Learning and Augmented Decision (GLAD) 😆 Lab**. My research explores the intersection of **Generative AI, trustworthy AI, and human-AI collaboration**, with applications in decision-making and computational social science.
 
-📚 **[Google Scholar](https://scholar.google.com/citations?user=-UT6q2oAAAAJ){:target="_blank"}** | ✉️ `xiyanghu AT asu DOT edu`  
+📚 **[Google Scholar](https://scholar.google.com/citations?user=-UT6q2oAAAAJ){:target="_blank"}**
+
+✉️ `xiyanghu AT asu DOT edu`
 
 #### **Research Interests**  
 🤖 **Generative AI & Large Language Models (LLMs)**  
