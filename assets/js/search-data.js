@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-generative-learning-and-augmented-decision-glad-lab",
           title: "Generative Learning and Augmented Decision (GLAD) Lab",
-          description: "Welcome to our lab!😆",
+          description: "Welcome to our lab! 😆",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
