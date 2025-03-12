@@ -41,7 +41,7 @@ Hi! I'm **[Xiyang Hu](https://search.asu.edu/profile/5023133){:target="_blank"}*
 👥 **Human-Centered AI & AI-Augmented Decision-Making**  
 🌍 **Computational Social Science & AI for Society**  
 
-> 💡 **Interested in working together? Drop me an email!**
+> 💡 **For prospective students, please read [this](https://xiyanghu.github.io/lab/).**
 
 
 #### **Education**  
