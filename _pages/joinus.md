@@ -2,7 +2,7 @@
 
 Are you **passionate about Generative AI, LLM-powered agents, Trustworthy AI, Human-AI Collaboration, and Computational Social Science**? Do you want to work on cutting-edge research that makes an impact? If so, I invite you to join the **Generative Learning and Augmented Decision (GLAD) Lab**! 
 
-We are more than just a research lab—we are a **family**. At GLAD, we believe that the best research happens when people feel **supported, encouraged, and inspired**. If you are ready to **explore new frontiers, take on challenging research problems, and publish in top venues, all while being part of a close-knit, collaborative team**, we would love to have you!  
+We are more than just a research lab—we are a **tight-knit community**. At GLAD, we believe that groundbreaking research happens in an environment where people feel **supported, encouraged, and inspired**. If you are eager to **push boundaries, tackle challenging research problems, and publish in top venues—while being part of a collaborative and supportive team**—we would love to have you on board! 🚀
 
 ---
 
@@ -55,7 +55,7 @@ We occasionally host **exceptional self-funded visiting students and interns**. 
 
 ---
 
-## **🌟 Our Lab Culture – We Are a Family**  
+## **🌟 Our Lab Culture**  
 The **GLAD Lab** is built on the belief that great research happens in an **environment of trust, collaboration, and mutual growth**. Our core values:  
 
 🤝 **Collaboration & Mentorship** – We **learn from each other**, whether you're a first-year student or a seasoned researcher. **No one is alone in their journey.**  
@@ -70,4 +70,4 @@ The **GLAD Lab** is built on the belief that great research happens in an **envi
 
 🌍 **Belonging** – We **welcome students from all backgrounds** because we believe varied perspectives lead to stronger, more innovative research. **No matter where you're from, you belong here.**  
 
-If you are looking for a **supportive research family where your ideas will be valued and your potential nurtured**, GLAD is the place for you!  
+At GLAD Lab, **you are never alone in your research journey**—we work together, grow together, and celebrate each other’s successes.  
