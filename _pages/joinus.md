@@ -14,7 +14,9 @@ We are looking for students who are:
 ✅ **Passionate about research** (publications in ML or interdisciplinary venues are a plus, but not required)  
 ✅ **Self-motivated, curious, and ready to take initiative** – we encourage students to **lead projects and publish at top conferences!**  
 
-If you thrive in an environment where **innovation meets impact**, we want you on board! Please include your **CV, transcript, research background & interests, and any publications** in your email.  
+If you thrive in an environment where **innovation meets impact**, we want you on board!
+
+> 💡 If you are interested in working with me, **please read the instructions below and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfK49daEc5MPc5WeE4NyvH73lihwTPay40cbExpYnIpW8LfzA/viewform?usp=dialog)**. Due to high email volume, I apologize for not being able to reply to every inquiry! 
  
 
 ---
@@ -22,7 +24,7 @@ If you thrive in an environment where **innovation meets impact**, we want you o
 ### **Opportunities at the GLAD Lab**  
 
 #### 🎓 **Ph.D. Students**  
-I currently advise Ph.D. students in the **ASU Computer Information Systems Ph.D. program**. If you are interested, please apply to this program. Admission decisions are made by the PhD committee and you can work with multiple our amazing faculties in the deparment.  
+I currently advise Ph.D. students in the **ASU Computer Information Systems Ph.D. program**. If you are interested, please apply to this program directly. Admission decisions are made by the committee, and you can work with multiple our amazing faculties in the deparment.  
 
 #### 💻 **Master’s Students (ASU)**  
 For **ASU Master’s students**, I encourage you to take at least one of the following machine learning courses **before reaching out**:  
@@ -48,8 +50,6 @@ We occasionally host **exceptional self-funded visiting students and interns**. 
 🔹 A well-defined research focus that aligns with **GLAD Lab’s mission**  
 
 ---
-
-⚠️ **Due to high email volume, I may not be able to reply to every inquiry.** 
 
 🚀 **Looking forward to working with the next generation of AI pioneers!**  
 
