@@ -24,7 +24,7 @@ If you thrive in an environment where **innovation meets impact**, we want you o
 ### **Opportunities at the GLAD Lab**  
 
 #### 🎓 **Ph.D. Students**  
-I currently advise Ph.D. students in the **ASU Computer Information Systems Ph.D. program**. If you are interested, please apply to this program directly. Admission decisions are made by the committee, and you can work with multiple our amazing faculties in the deparment.  
+I currently advise Ph.D. students in the **ASU Computer Information Systems Ph.D. program**. If you are interested, please apply to this program directly. Admission decisions are made by the committee, and you can work with multiple our amazing faculties in the department.  
 
 #### 💻 **Master’s Students (ASU)**  
 For **ASU Master’s students**, I encourage you to take at least one of the following machine learning courses **before reaching out**:  
