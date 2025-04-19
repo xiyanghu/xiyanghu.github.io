@@ -39,7 +39,7 @@ Completing one or more of these courses will ensure you have the necessary backg
 
 #### 🔬 **Undergraduate Students (ASU)**  
 I am always excited to work with **highly motivated undergraduates** at ASU! If you have a strong interest in AI/ML research, here are some ways to get involved:  
-🔹 **Strong coursework performance in AI/ML-related subjects**  
+🔹 **Strong coursework performance in AI/ML-related subjects** (such as **CSE 475/476** or equivalent)
 🔹 **Participation in hackathons and research competitions**  
 🔹 **Involvement in ASU’s FURI/SURI/GCSP programs**  
 
