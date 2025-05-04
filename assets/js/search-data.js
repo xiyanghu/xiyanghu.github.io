@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-resource",
-          title: "resource",
-          description: "A curated collection of high-quality resources for students and researchers. While many of these materials are written by computer science scholars (👏 to their open-source spirit), the insights are broadly applicable across disciplines.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resource/";
-          },
         },{id: "nav-generative-learning-and-augmented-decision-glad-lab",
           title: "Generative Learning and Augmented Decision (GLAD) Lab",
           description: "Welcome to our lab! 😆",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
+          },
+        },{id: "nav-resource",
+          title: "resource",
+          description: "A curated collection of high-quality resources for students and researchers. While many of these materials are written by computer science scholars (👏 to their open-source spirit), the insights are broadly applicable across disciplines.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resource/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
