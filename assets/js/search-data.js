@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab/";
           },
-        },{id: "nav-resource",
-          title: "resource",
+        },{id: "nav-resources",
+          title: "resources",
           description: "A curated collection of high-quality resources for students and researchers. While many of these materials are written by computer science scholars (👏 to their open-source spirit), the insights are broadly applicable across disciplines.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resource/";
+            window.location.href = "/resources/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
