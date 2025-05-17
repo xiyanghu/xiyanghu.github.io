@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resource/
-title: resource
+permalink: /resources/
+title: resources
 description: A curated collection of high-quality resources for students and researchers. While many of these materials are written by computer science scholars (👏 to their open-source spirit), the insights are broadly applicable across disciplines.
 nav: true
 nav_order: 8
@@ -35,7 +35,7 @@ nav_order: 8
 
 ### 🧑‍🏫 Advising
 
-- [How to Choose a PhD Advisor](https://medium.com/polo-club-of-data-science/how-to-choose-phd-advisor-1a6682caf28e) by **Polo Chau**
+- [Focus on Human Qualities when Choosing PhD Advisor](https://medium.com/polo-club-of-data-science/how-to-choose-phd-advisor-1a6682caf28e) by **Polo Chau**
 
 - [How to Pick a Graduate Advisor](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf) by **Ben Barres**
 
