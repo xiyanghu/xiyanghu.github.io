@@ -24,10 +24,12 @@ If you thrive in an environment where **innovation meets impact**, we want you o
 ### **Opportunities at the GLAD Lab**  
 
 #### 🎓 **Ph.D. Students**  
-I currently advise Ph.D. students in the **ASU Computer Information Systems Ph.D. program**. If you are interested, please apply to this program directly. Admission decisions are made by the committee, and you can work with multiple our amazing faculties in the department.  
+I currently advise Ph.D. students in the following two programs at ASU. If you're interested in pursuing doctoral research with me, please apply directly to one of these programs. Admission decisions are made by a faculty committee, and students have the opportunity to collaborate with multiple exceptional researchers in the department.  
+🔸 **Ph.D. in Computer Information Systems**  
+🔸 **Ph.D. in Data Science**  
 
 #### 💻 **Master’s Students (ASU)**  
-For **ASU Master’s students**, I encourage you to take at least one of the following machine learning courses **before reaching out**:  
+If you're a Master’s student at ASU interested in research, I recommend that you first complete at least one of the following machine learning–related courses **before reaching out**:  
 📌 **CSE 475** Foundations of Machine Learning  
 📌 **CSE 476** Introduction to Natural Language Processing  
 📌 **CSE 569** Fundamentals of Statistical Learning and Pattern Recognition  
@@ -35,7 +37,9 @@ For **ASU Master’s students**, I encourage you to take at least one of the fol
 📌 **CSE 575** Statistical Machine Learning  
 📌 **CSE 576** Topics in Natural Language Processing  
 
-Completing one or more of these courses will ensure you have the necessary background to contribute effectively to our research.  
+These courses will help ensure you have the foundational knowledge needed to contribute meaningfully to research projects.
+
+If you're enrolled in the **MS in Data Science, Analytics, and Engineering** program and are interested in doing a thesis with me, you're welcome to reach out after completing one or more of the above courses **and** reviewing my papers to identify overlapping research interests.
 
 #### 🔬 **Undergraduate Students (ASU)**  
 I am always excited to work with **highly motivated undergraduates** at ASU! If you have a strong interest in AI/ML research, here are some ways to get involved:  
