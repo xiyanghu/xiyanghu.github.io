@@ -24,7 +24,7 @@ If you thrive in an environment where **innovation meets impact**, we want you o
 ### **Opportunities at the GLAD Lab**  
 
 #### 🎓 **Ph.D. Students**  
-I currently advise Ph.D. students in the following two programs at ASU. If you're interested in pursuing doctoral research with me, please apply directly to one of these programs. Admission decisions are made by a faculty committee, and students have the opportunity to collaborate with multiple exceptional researchers in the department.  
+I currently advise Ph.D. students in the following two programs at ASU. If you're interested in pursuing doctoral research with me, I warmly encourage you to apply to both programs to maximize your chances of admission. Admission decisions are made by a committee, and students have the opportunity to collaborate with multiple exceptional faculties in the department.  
 🔸 **Ph.D. in Computer Information Systems**  
 🔸 **Ph.D. in Data Science**  
 
