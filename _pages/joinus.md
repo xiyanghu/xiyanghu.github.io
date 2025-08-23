@@ -12,7 +12,7 @@ We are looking for students who are:
 ✅ **Solid in mathematical foundations** (e.g., probability, statistics, linear algebra, optimization)  
 ✅ **Knowledgeable in AI/ML** (machine learning, data mining, or AI fundamentals)  
 ✅ **Passionate about research** (publications in ML or interdisciplinary venues are a plus, but not required)  
-✅ **Self-motivated, curious, and ready to take initiative** – we encourage students to **lead projects and publish at top conferences!**  
+✅ **Self-motivated, curious, and ready to take initiative** – we encourage students to **lead projects and publish at top venues!**  
 
 If you thrive in an environment where **innovation meets impact**, we want you on board!
 
