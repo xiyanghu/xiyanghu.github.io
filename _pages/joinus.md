@@ -1,4 +1,25 @@
-# **🚀 Join the GLAD Lab!**  
+### 👥 **Members**
+*Listed alphabetically by last name. To add yourself or update your information, please fork, edit, commit, and submit a pull request to [this page](https://github.com/xiyanghu/xiyanghu.github.io/blob/main/_pages/joinus.md).*
+
+- **Guanyu Chen**, MS student  
+- **Yixuan Du**, MS student  
+- **Rishitosh Singh**, MS student  
+- **Zoe Wang**, MS student  
+- **Tiancheng Xing**, MS student  
+- **Jiayi Xu**, MS student  
+- **Chenxiao Yu**, MS student
+  &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
+
+### 🎓 **Alumni**
+
+- **Yuangang Li**, MS → *PhD @ University of California, Irvine*
+  &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
+- **Yiming Tang**, MS → *MLE @ Baidu*
+  &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
+
+---
+
+## **🚀 Join the GLAD Lab!**  
 
 Are you **passionate about Generative AI, LLM-powered agents, Trustworthy AI, Human-AI Collaboration, and Computational Social Science**? Do you want to work on cutting-edge research that makes an impact? If so, I invite you to join the **Generative Learning and Augmented Decision (GLAD) Lab**! 
 
