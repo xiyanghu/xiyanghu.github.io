@@ -1,12 +1,20 @@
 ### 👥 **Members**
 *Listed alphabetically by last name. To add yourself or update your information, please fork, edit, commit, and submit a pull request to [this page](https://github.com/xiyanghu/xiyanghu.github.io/blob/main/_pages/joinus.md).*
 
-- **Guanyu Chen**, UG student  
-- **Yixuan Du**, MS student  
-- **Rishitosh Singh**, MS student  
-- **Zoe Wang**, MS student  
-- **Tiancheng Xing**, MS student  
-- **Jiayi Xu**, MS student  
+- **Guanyu Chen**, UG student
+  &nbsp;&nbsp;🔬 Working on **SocialNLP**
+- **Yixuan Du**, MS student
+  &nbsp;&nbsp;🔬 Working on **LLM Safety**
+- **Thirulogasankar Pranav Nolastname**, MS student
+  &nbsp;&nbsp;🔬 Working on **LLM Agent**
+- **Rishitosh Singh**, MS student
+  &nbsp;&nbsp;🔬 Working on **Multimodal ML**
+- **Zoe Wang**, MS student
+  &nbsp;&nbsp;🔬 Working on **Multimodal ML**
+- **Tiancheng Xing**, MS student
+  &nbsp;&nbsp;🔬 Working on **LLM Safety**
+- **Jiayi Xu**, MS student
+  &nbsp;&nbsp;🔬 Working on **SocialNLP**
 - **Chenxiao Yu**, MS student
   &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 
