@@ -1,7 +1,7 @@
 ### 👥 **Members**
 *Listed alphabetically by last name. To add yourself or update your information, please fork, edit, commit, and submit a pull request to [this page](https://github.com/xiyanghu/xiyanghu.github.io/blob/main/_pages/joinus.md).*
 
-- **Guanyu Chen**, MS student  
+- **Guanyu Chen**, UG student  
 - **Yixuan Du**, MS student  
 - **Rishitosh Singh**, MS student  
 - **Zoe Wang**, MS student  
