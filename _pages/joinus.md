@@ -22,7 +22,7 @@
 
 ### 🎓 **Alumni**
 
-- **Yuangang Li**, MS → *PhD @ University of California, Irvine*
+- **Yuangang Li**, MS → *PhD @ UCI*
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
