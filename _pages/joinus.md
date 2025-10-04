@@ -15,6 +15,8 @@
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Tiancheng Xing**, MS student
   &nbsp;&nbsp;🔬 Working on **LLM Safety**
+   **Muhammad Akmal**, MS student
+  &nbsp;&nbsp;🔬 Working on **Medical Image Classification using Deep Learning**
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;🔬 Working on **SocialNLP**
 - **Chenxiao Yu**, MS student
