@@ -4,9 +4,11 @@
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;🔬 Working on **SocialNLP**
 - **Yixuan Du**, MS student
-  &nbsp;&nbsp;🔬 Working on **LLM Safety**
+  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Qizan Guo**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
+- **Jerry Li**, MS student
+  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Thirulogasankar Pranav Nolastname**, MS student
   &nbsp;&nbsp;🔬 Working on **LLM Agent**
 - **Rishitosh Singh**, MS student
@@ -14,7 +16,7 @@
 - **Zoe Wang**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Tiancheng Xing**, MS student
-  &nbsp;&nbsp;🔬 Working on **LLM Safety**
+  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;🔬 Working on **SocialNLP**
 - **Chenxiao Yu**, MS student
@@ -23,7 +25,7 @@
 ### 🎓 **Alumni**
 
 - **Yuangang Li**, MS → *PhD @ UCI*
-  &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
+  &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
 
