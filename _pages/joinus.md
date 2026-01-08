@@ -2,21 +2,17 @@
 *Listed alphabetically by last name. To add yourself or update your information, please fork, edit, commit, and submit a pull request to [this page](https://github.com/xiyanghu/xiyanghu.github.io/blob/main/_pages/joinus.md).*
 
 - **Guanyu Chen**, UG student
-  &nbsp;&nbsp;🔬 Working on **SocialNLP**
+  &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
 - **Yixuan Du**, MS student
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Qizan Guo**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Jerry Li**, MS student
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
-- **Thirulogasankar Pranav Nolastname**, MS student
-  &nbsp;&nbsp;🔬 Working on **LLM Agent**
 - **Rishitosh Singh**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Zoe Wang**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
-- **Tiancheng Xing**, MS student
-  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;🔬 Working on **SocialNLP**
 - **Chenxiao Yu**, MS student
@@ -24,10 +20,14 @@
 
 ### 🎓 **Alumni**
 
+- **Tiancheng Xing**, MS → *PhD @ TokyoTech*
+  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Yuangang Li**, MS → *PhD @ UCI*
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
+- **T Pranav Nolastname**, MS
+  &nbsp;&nbsp;[📄MLCL]()
 
 ---
 
