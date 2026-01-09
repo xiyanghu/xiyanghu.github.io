@@ -26,7 +26,7 @@
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
-- **T Pranav Nolastname**, MS
+- **T Pranav Kutralingam**, MS
   &nbsp;&nbsp;[📄MLCL]()
 
 ---
