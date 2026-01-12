@@ -27,7 +27,7 @@
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
 - **T Pranav Kutralingam**, MS
-  &nbsp;&nbsp;[📄MLCL]()
+  &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
 
 ---
 
