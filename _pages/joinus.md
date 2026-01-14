@@ -35,7 +35,7 @@
 
 Are you **passionate about Generative AI, LLM-powered agents, Trustworthy AI, Human-AI Collaboration, and Computational Social Science**? Do you want to work on cutting-edge research that makes an impact? If so, I invite you to join the **Generative Learning and Augmented Decision (GLAD) Lab**! 
 
-We are more than just a research lab—we are a **tight-knit community**. At GLAD, we believe that groundbreaking research happens in an environment where people feel **supported, encouraged, and inspired**. If you are eager to **push boundaries, tackle challenging research problems, and publish in top venues—while being part of a collaborative and supportive team**—we would love to have you on board! 🚀
+We are more than just a research lab—we are a **tight-knit team**. At GLAD, we believe that groundbreaking research happens in an environment where people feel **supported, encouraged, and inspired**. If you are eager to **push boundaries, tackle challenging research problems, and publish in top venues—while being part of a collaborative and supportive team**—we would love to have you on board! 🚀
 
 ---
 
