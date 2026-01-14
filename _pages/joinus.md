@@ -3,12 +3,8 @@
 
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
-- **Yixuan Du**, MS student
-  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Qizan Guo**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
-- **Jerry Li**, MS student
-  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Rishitosh Singh**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Zoe Wang**, MS student
@@ -16,7 +12,7 @@
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;🔬 Working on **SocialNLP**
 - **Chenxiao Yu**, MS student
-  &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
+  &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)&nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 
 ### 🎓 **Alumni**
 
@@ -26,7 +22,13 @@
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
-- **T Pranav Kutralingam**, MS
+- **Yixuan Du**, MS student
+  &nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
+- **Jerry Li**, MS student
+  &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
+- **Jinbo Liu**, MS student
+  &nbsp;&nbsp;[📄MAMA](https://arxiv.org/abs/2512.04668)
+- **T Pranav Kutralingam**, MS student
   &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
 
 ---
