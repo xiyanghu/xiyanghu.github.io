@@ -18,6 +18,8 @@
 
 - **Tiancheng Xing**, MS → *PhD @ TokyoTech*
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
+- **Yi Nian**, MS → *PhD @ USC*
+  &nbsp;&nbsp;[📄COOD](https://arxiv.org/abs/2411.13578)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Yuangang Li**, MS → *PhD @ UCI*
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 - **Yiming Tang**, MS → *MLE @ BD*
