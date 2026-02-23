@@ -11,11 +11,11 @@
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;🔬 Working on **SocialNLP**
-- **Chenxiao Yu**, MS student
-  &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)&nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 
 ### 🎓 **Alumni**
 
+- **Chenxiao Yu**, MS → *PhD @ USC*
+  &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)&nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Tiancheng Xing**, MS → *PhD @ TokyoTech*
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Yuangang Li**, MS → *PhD @ UCI*
