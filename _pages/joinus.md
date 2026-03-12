@@ -10,7 +10,7 @@
 - **Zoe Wang**, MS student
   &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Jiayi Xu**, MS student
-  &nbsp;&nbsp;🔬 Working on **SocialNLP**
+  &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
 ### 🎓 **Alumni**
 
