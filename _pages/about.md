@@ -43,6 +43,9 @@ Hi! I'm **[Xiyang Hu](https://search.asu.edu/profile/5023133){:target="_blank"}*
 
 > 💡 **For prospective students, please read [this](https://xiyanghu.github.io/lab/).**
 
+#### **Sponsor**
+
+<img src="assets/img/sponsor.png" width="70%">
 
 #### **Education**  
 🎓 **Ph.D. in Information Systems** – [Carnegie Mellon University](https://www.cmu.edu/){:target="_blank"}  
