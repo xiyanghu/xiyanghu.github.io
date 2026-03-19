@@ -1,6 +1,12 @@
 ### 👥 **Members**
 *Listed alphabetically by last name. To add yourself or update your information, please fork, edit, commit, and submit a pull request to [this page](https://github.com/xiyanghu/xiyanghu.github.io/blob/main/_pages/joinus.md).*
 
+#### PhD Students
+
+- **Weibo Li**, (co-advised w/ Olivia Sheng)
+
+#### UG & MS Students, Interns
+
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
 - **Qizan Guo**, MS student
