@@ -9,12 +9,6 @@
 
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
-- **Qizan Guo**, MS student
-  &nbsp;&nbsp;🔬 Working on **Multimodal ML**
-- **Rishitosh Singh**, MS student
-  &nbsp;&nbsp;🔬 Working on **Multimodal ML**
-- **Zoe Wang**, MS student
-  &nbsp;&nbsp;🔬 Working on **Multimodal ML**
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
@@ -28,6 +22,8 @@
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
+- **Qizan Guo**, MS → *MLE*
+  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
 - **Yi Nian**, MS
   &nbsp;&nbsp;[📄COOD](https://arxiv.org/abs/2411.13578)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Yixuan Du**, MS student
@@ -38,6 +34,10 @@
   &nbsp;&nbsp;[📄MAMA](https://arxiv.org/abs/2512.04668)
 - **T Pranav Kutralingam**, MS student
   &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
+- **Rishitosh Singh**, MS student
+  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
+- **Zoe Wang**, MS student
+  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
 
 ---
 
