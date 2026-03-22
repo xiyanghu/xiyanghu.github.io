@@ -9,6 +9,8 @@
 
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
+- **Harul Murugan Ramamoorthy Soppana**, MS student
+  &nbsp;&nbsp;🔬 Working on **LLM**
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
@@ -20,12 +22,14 @@
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Chenxiao Yu**, MS → *PhD @ USC*
   &nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)&nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
+- **Zoe Wang**, MS → *PhD @ TAMU*
+  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)&nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
+- **Yi Nian**, MS → *PhD @ USC*
+  &nbsp;&nbsp;[📄COOD](https://arxiv.org/abs/2411.13578)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
 - **Qizan Guo**, MS → *MLE*
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
-- **Yi Nian**, MS
-  &nbsp;&nbsp;[📄COOD](https://arxiv.org/abs/2411.13578)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Yixuan Du**, MS student
   &nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Jerry Li**, MS student
@@ -35,8 +39,6 @@
 - **T Pranav Kutralingam**, MS student
   &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
 - **Rishitosh Singh**, MS student
-  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
-- **Zoe Wang**, MS student
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
 
 ---
