@@ -26,12 +26,12 @@
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)&nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
 - **Yi Nian**, MS → *PhD @ USC*
   &nbsp;&nbsp;[📄COOD](https://arxiv.org/abs/2411.13578)&nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)
+- **Yixuan Du**, MS → *PhD @ UCI*
+  &nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Yiming Tang**, MS → *MLE @ BD*
   &nbsp;&nbsp;[📄StealthRank](https://arxiv.org/abs/2504.05804)
 - **Qizan Guo**, MS → *MLE*
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
-- **Yixuan Du**, MS student
-  &nbsp;&nbsp;[📄MSEO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917963)&nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Jerry Li**, MS student
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
 - **Jinbo Liu**, MS student
