@@ -4,17 +4,17 @@
 #### PhD Students
 
 - **Weibo Li**, (co-advised w/ Olivia Sheng)
+  &nbsp;&nbsp;[📄Sim2Real](https://arxiv.org/abs/2606.07017)
 
 #### UG & MS Students, Interns
 
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
-- **Harul Murugan Ramamoorthy Soppana**, MS student
-  &nbsp;&nbsp;🔬 Working on **LLM**
 - **Jiayi Xu**, MS student
   &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
-### 🎓 **Alumni**
+<details class="alumni-toggle" markdown="1">
+<summary><h3>🎓 <strong>Alumni</strong> <span class="toggle-hint">(click to expand)</span></h3></summary>
 
 - **Yuangang Li**, MS → *PhD @ UCI*
   &nbsp;&nbsp;[📄CDCR-SFT](https://arxiv.org/abs/2508.12495)&nbsp;&nbsp;[📄LLMVoter](https://arxiv.org/abs/2412.15291)
@@ -40,6 +40,27 @@
   &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
 - **Rishitosh Singh**, MS student
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
+- **Harul Murugan Ramamoorthy Soppana**, MS → *AI and Automation Analyst @ MY DR NOW*
+
+</details>
+
+<style>
+  .alumni-toggle > summary {
+    cursor: pointer;
+    list-style-position: inside;
+  }
+  .alumni-toggle > summary > h3 {
+    display: inline;
+  }
+  .alumni-toggle .toggle-hint {
+    font-size: 0.7em;
+    font-weight: normal;
+    opacity: 0.6;
+  }
+  .alumni-toggle[open] .toggle-hint {
+    display: none;
+  }
+</style>
 
 ---
 
