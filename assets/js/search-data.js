@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-generative-learning-and-augmented-decision-glad-lab",
           title: "Generative Learning and Augmented Decision (GLAD) Lab",
-          description: "Welcome to our lab! 😆",
+          description: "The GLAD Lab at Arizona State University (ASU), led by Prof. Xiyang Hu — research on Generative AI, LLM-powered agents, Trustworthy AI, and Human-AI collaboration. 😆",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
