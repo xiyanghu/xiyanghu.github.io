@@ -34,6 +34,8 @@
     {% else %}
       {{ page.title }} | {{ title }}
     {% endif %}
+  {% elsif page.title_suffix %}
+    {{ title }} | {{ page.title_suffix }}
   {% else %}
     {{ title }}
   {% endif %}
@@ -236,6 +238,35 @@
         {% endif %}
         "name": "{{ author_name }}",
         "@context": "https://schema.org"
+    }
+  </script>
+{% endif %}
+
+{% if page.lab_schema %}
+  <!-- Research lab Schema.org (GLAD Lab) -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Generative Learning and Augmented Decision (GLAD) Lab",
+      "alternateName": ["GLAD Lab", "ASU GLAD Lab"],
+      "url": "https://xiyanghu.github.io/lab/",
+      "description": "Research lab at Arizona State University (ASU) led by Professor Xiyang Hu, focused on Generative AI, large language models, LLM-powered agents, Trustworthy AI, and Human-AI collaboration.",
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "name": "Arizona State University",
+        "url": "https://www.asu.edu/"
+      },
+      "founder": {
+        "@type": "Person",
+        "name": "Xiyang Hu",
+        "url": "https://xiyanghu.github.io/",
+        "sameAs": [
+          "https://scholar.google.com/citations?user=-UT6q2oAAAAJ",
+          "https://search.asu.edu/profile/5023133"
+        ]
+      },
+      "knowsAbout": ["Generative AI", "Large Language Models", "LLM agents", "Trustworthy AI", "Human-AI Collaboration", "Computational Social Science"]
     }
   </script>
 {% endif %}

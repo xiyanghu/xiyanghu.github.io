@@ -2,7 +2,10 @@
 layout: profiles
 permalink: /lab/
 title: Generative Learning and Augmented Decision (GLAD) Lab
-description: Welcome to our lab! 😆
+description: >
+  The GLAD Lab at Arizona State University (ASU), led by Prof. Xiyang Hu — research on Generative AI, LLM-powered agents, Trustworthy AI, and Human-AI collaboration. 😆
+keywords: GLAD Lab, ASU GLAD Lab, Generative Learning and Augmented Decision Lab, Xiyang Hu, Arizona State University, Generative AI, LLM agents, Trustworthy AI, PhD positions
+lab_schema: true
 nav: true
 nav_order: 7
 
