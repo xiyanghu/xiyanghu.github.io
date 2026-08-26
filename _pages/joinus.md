@@ -4,13 +4,23 @@
 #### PhD Students
 
 - **Weibo Li**, (co-advised w/ Olivia Sheng)
-  &nbsp;&nbsp;[📄Sim2Real](https://arxiv.org/abs/2606.07017)
+  &nbsp;&nbsp;[📄AgentSim2Real](https://arxiv.org/abs/2606.07017)
+- **Jinbo Liu**, 
+  &nbsp;&nbsp;[📄MAMA](https://arxiv.org/abs/2512.04668)&nbsp;&nbsp;[📄CTA](https://arxiv.org/abs/2605.11946)
+- **Xiaolin Zhou**, (co-advised w/ Olivia Sheng)
+  &nbsp;&nbsp;[📄Robust Tool-Use Agents](https://arxiv.org/abs/2605.11928)&nbsp;&nbsp;[📄CTA](https://arxiv.org/abs/2605.11946)
 
 #### UG & MS Students, Interns
 
 - **Guanyu Chen**, UG student
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
-- **Jiayi Xu**, MS student
+- **Zhe Chen**, MS student
+- **Yucheng Du**, MS student
+- **Yuzhou Liu**, MS student
+- **Rishitosh Singh**, MS
+  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
+- **Kuntian Tang**, MS student
+- **Jiayi Xu**, MS
   &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
 <details class="alumni-toggle" markdown="1">
@@ -34,12 +44,8 @@
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
 - **Jerry Li**, MS student
   &nbsp;&nbsp;[📄RAF](https://arxiv.org/abs/2510.06732)
-- **Jinbo Liu**, MS student
-  &nbsp;&nbsp;[📄MAMA](https://arxiv.org/abs/2512.04668)
-- **T Pranav Kutralingam**, MS student
+- **T Pranav Kutralingam**, MS student → *Product Engineer @ Pretorin*
   &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
-- **Rishitosh Singh**, MS student
-  &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
 - **Harul Murugan Ramamoorthy Soppana**, MS → *AI and Automation Analyst @ MY DR NOW*
 
 </details>
