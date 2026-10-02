@@ -760,6 +760,11 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .award-line {
+        color: var(--global-award-color);
+        font-weight: 600;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
