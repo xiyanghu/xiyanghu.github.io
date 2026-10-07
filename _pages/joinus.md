@@ -81,11 +81,11 @@ We are more than just a research lab—we are a **tight-knit team**. At GLAD, we
 
 ### **Who Should Apply?**
 
-We are looking for students who are:
-✅ **Strong in programming** (Python/C++, with experience in deep learning frameworks like PyTorch)
-✅ **Solid in mathematical foundations** (e.g., probability, statistics, linear algebra, optimization)
-✅ **Knowledgeable in AI/ML** (machine learning, data mining, or AI fundamentals)
-✅ **Passionate about research** (publications in ML or interdisciplinary venues are a plus, but not required)
+We are looking for students who are:  
+✅ **Strong in programming** (Python/C++, with experience in deep learning frameworks like PyTorch)  
+✅ **Solid in mathematical foundations** (e.g., probability, statistics, linear algebra, optimization)  
+✅ **Knowledgeable in AI/ML** (machine learning, data mining, or AI fundamentals)  
+✅ **Passionate about research** (publications in ML or interdisciplinary venues are a plus, but not required)  
 ✅ **Self-motivated, curious, and ready to take initiative** – we encourage students to **lead projects and publish at top venues!**
 
 If you thrive in an environment where **innovation meets impact**, we want you on board!
@@ -98,21 +98,21 @@ If you thrive in an environment where **innovation meets impact**, we want you o
 
 #### 🎓 **Ph.D. Students**
 
-I currently advise Ph.D. students in the following three programs at ASU. If you're interested in pursuing doctoral research with me, I warmly encourage you to apply to all programs to maximize your chances of admission. Admission decisions are made by a committee, and students have the opportunity to collaborate with multiple exceptional faculties in the program.
-🔸 **Ph.D. in Computer Information Systems**
-🔸 **Ph.D. in Computer Science**
-🔸 **Ph.D. in Data Science**
+I currently advise Ph.D. students in the following three programs at ASU. If you're interested in pursuing doctoral research with me, I warmly encourage you to apply to all programs to maximize your chances of admission. Admission decisions are made by a committee, and students have the opportunity to collaborate with multiple exceptional faculties in the program.  
+🔸 **Ph.D. in Computer Information Systems**  
+🔸 **Ph.D. in Computer Science**  
+🔸 **Ph.D. in Data Science**  
 
 #### 💻 **Master’s Students (ASU)**
 
-If you're a Master’s student at ASU interested in research, I recommend that you first complete at least one of the following machine learning–related courses **before reaching out**:
-📌 [**Stanford CS 336** Language Modeling from Scratch](https://cs336.stanford.edu/)  *🌟Highly recommended!🌟*
-📌 **CSE 475** Foundations of Machine Learning
-📌 **CSE 476** Introduction to Natural Language Processing
-📌 **CSE 569** Fundamentals of Statistical Learning and Pattern Recognition
-📌 **CSE 572** Data Mining
-📌 **CSE 575** Statistical Machine Learning
-📌 **CSE 576** Topics in Natural Language Processing
+If you're a Master’s student at ASU interested in research, I recommend that you first complete at least one of the following machine learning–related courses **before reaching out**:  
+📌 [**Stanford CS 336** Language Modeling from Scratch](https://cs336.stanford.edu/)  *🌟Highly recommended!🌟*  
+📌 **CSE 475** Foundations of Machine Learning  
+📌 **CSE 476** Introduction to Natural Language Processing  
+📌 **CSE 569** Fundamentals of Statistical Learning and Pattern Recognition  
+📌 **CSE 572** Data Mining  
+📌 **CSE 575** Statistical Machine Learning  
+📌 **CSE 576** Topics in Natural Language Processing  
 
 These courses will help ensure you have the foundational knowledge needed to contribute meaningfully to research projects.
 
@@ -120,16 +120,16 @@ If you're enrolled in the **MS in Data Science, Analytics, and Engineering** pro
 
 #### 🔬 **Undergraduate Students (ASU)**
 
-I am always excited to work with **highly motivated undergraduates** at ASU! If you have a strong interest in AI/ML research, here are some ways to get involved:
-🔹 **Strong coursework performance in AI/ML-related subjects** (such as **CSE 475/476** or equivalent)
-🔹 **Participation in hackathons and research competitions**
-🔹 **Involvement in ASU’s FURI/SURI/GCSP programs**
+I am always excited to work with **highly motivated undergraduates** at ASU! If you have a strong interest in AI/ML research, here are some ways to get involved:  
+🔹 **Strong coursework performance in AI/ML-related subjects** (such as **CSE 475/476** or equivalent)  
+🔹 **Participation in hackathons and research competitions**  
+🔹 **Involvement in ASU’s FURI/SURI/GCSP programs**  
 
 #### 🌍 **Interns & Visiting Students**
 
-We occasionally host **exceptional self-funded visiting students and interns**. To be considered, you should have:
-🔹 Prior research experience (e.g., **published papers** or strong recommendations from researchers I know)
-🔹 A well-defined research focus that aligns with **GLAD Lab’s mission**
+We occasionally host **exceptional self-funded visiting students and interns**. To be considered, you should have:  
+🔹 Prior research experience (e.g., **published papers** or strong recommendations from researchers I know)  
+🔹 A well-defined research focus that aligns with **GLAD Lab’s mission**  
 
 ---
 
