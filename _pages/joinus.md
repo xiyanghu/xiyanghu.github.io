@@ -17,12 +17,13 @@
   &nbsp;&nbsp;[📄VAAR](https://arxiv.org/abs/2601.03546)
 - **Zhe Chen**, MS student
 - **Yucheng Du**, MS student
+  &nbsp;&nbsp;[📄Answerability](https://arxiv.org/abs/2608.29109)
 - **Yuzhou Liu**, MS student
+- **Zheng Luo**, MS student
+  &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)&nbsp;&nbsp;[📄Robust Tool-Use Agents](https://arxiv.org/abs/2605.11928)
 - **Rishitosh Singh**, MS
   &nbsp;&nbsp;[📄VLMEngage](https://arxiv.org/abs/2603.18480)
 - **Kuntian Tang**, MS student
-- **Jiayi Xu**, MS
-  &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
 <details class="alumni-toggle" markdown="1">
 <summary><h3>🎓 <strong>Alumni</strong> <span class="toggle-hint">(click to expand)</span></h3></summary>
@@ -48,6 +49,8 @@
 - **T Pranav Kutralingam**, MS student → *Product Engineer @ Pretorin*
   &nbsp;&nbsp;[📄MLCL](https://arxiv.org/abs/2601.05366)
 - **Harul Murugan Ramamoorthy Soppana**, MS → *AI and Automation Analyst @ MY DR NOW*
+- **Jiayi Xu**, MS → *RA @ HKU*
+  &nbsp;&nbsp;[📄LLMMentalHealth](https://arxiv.org/abs/2603.06910)
 
 </details>
 
